@@ -176,7 +176,7 @@ Deploy your own instance of Aniwatch API on Vercel.
 
 Deploy your own instance of Aniwatch API on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ghoshRitesh12/aniwatch-api)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/evilaroinuj/aniwatch-api)
 
 ## <span id="documentation">📚 Documentation</span>
 
